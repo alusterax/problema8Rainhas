@@ -1,6 +1,6 @@
 # problema8Rainhas
 Resolução de problema das 8 rainhas usando algoritmo genético, implementado em python.
-
+Repositório contém arquivo do Jupyter Notebook, para testes e gráficos.
 Resultados: 3 execuções, 1000 População, X Gerações, Mutação: 3%.
 
 ![](images/img10.png)
